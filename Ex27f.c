@@ -10,7 +10,7 @@ scanf("%i", &numero);
 
 while (numero<=0){
 
-printf("Erro, caractere errado! digite o sexo novamente:");
+printf("Erro, caractere errado! digite o numero novamente:");
 scanf("%i", &numero);
 
 }
