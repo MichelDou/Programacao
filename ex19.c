@@ -18,7 +18,7 @@ int main(int argc, char const *argv[])
     if (velofinal<=40){
      printf("veiculo muito lento \n %.f", velofinal);
     }
-    else if (40<velofinal<=60){
+    else if (40<=velofinal<=60){
     printf("velocidade permitida \n %.f", velofinal) ;
     }
     else if (60<velofinal<=80){
